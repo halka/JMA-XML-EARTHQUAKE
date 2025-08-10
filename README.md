@@ -5,13 +5,11 @@ A real-time web-based viewer for Japan Meteorological Agency (JMA) earthquake ac
 ## Features
 
 - **Real-time Data**: Live feed from JMA XML API
-- **Interactive Filtering**: Filter by earthquakes, volcanic activity, or alert levels
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Auto-refresh**: Updates every 5 minutes automatically
 - **Status Monitoring**: Connection status and feed health indicators
-- **Alert Levels**: Visual indicators for volcanic alert levels (1-3)
-- **Time Stamps**: Both absolute and relative time displays
 - **Statistics Dashboard**: Quick overview of current activity
+- **Cache XML File**: contains detail Information
 
 ## Quick Start
 
