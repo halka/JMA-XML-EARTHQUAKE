@@ -1,4 +1,4 @@
-# 🌋 JMA Earthquake & Volcanic Activity Viewer
+# 🌋 JMA Earthquake Activity Viewer
 
 A real-time web-based viewer for Japan Meteorological Agency (JMA) earthquake and volcanic activity data.
 
@@ -185,4 +185,5 @@ This project is for educational and informational purposes. JMA data is provided
 ---
 
 For questions or issues, please check the troubleshooting section above or review the code comments in the HTML and JavaScript files.
+
 
