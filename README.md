@@ -9,7 +9,7 @@ A real-time web-based viewer for Japan Meteorological Agency (JMA) earthquake ac
 - **Auto-refresh**: Updates every 5 minutes automatically
 - **Status Monitoring**: Connection status and feed health indicators
 - **Statistics Dashboard**: Quick overview of current activity
-- **Cache XML File**: contains detail Information
+- **Cache XML File**: Contains detail Information
 
 ## Quick Start
 
