@@ -1,0 +1,2 @@
+# JMA-XML-EARTHQUAKE
+気象庁のXMLをパースするやつ
