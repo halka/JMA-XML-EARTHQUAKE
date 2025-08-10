@@ -1,6 +1,6 @@
 # 🌋 JMA Earthquake Activity Viewer
 
-A real-time web-based viewer for Japan Meteorological Agency (JMA) earthquake and volcanic activity data.
+A real-time web-based viewer for Japan Meteorological Agency (JMA) earthquake activity data.
 
 ## Features
 
@@ -44,7 +44,6 @@ A real-time web-based viewer for Japan Meteorological Agency (JMA) earthquake an
 📦 JMA Viewer
 ├── 📄 jma_viewer.html      # Main web application
 ├── 📄 jma_server.js        # Optional Node.js proxy server
-├── 📄 jma_eqvol_analysis.md # Analysis documentation
 └── 📄 README.md            # This file
 ```
 
@@ -59,12 +58,9 @@ A real-time web-based viewer for Japan Meteorological Agency (JMA) earthquake an
 ## Data Sources
 
 - **Primary**: [JMA XML Feed](https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml)
-- **Update Frequency**: Real-time as events occur
+- **Update Frequency**: 3 min delay.
 - **Data Types**: 
   - Earthquake epicenter and intensity information
-  - Volcanic activity alerts and forecasts
-  - Ash fall predictions
-  - Alert level changes
 
 ### Event Types
 - **Earthquakes**: Seismic activity with location and intensity data
@@ -185,5 +181,6 @@ This project is for educational and informational purposes. JMA data is provided
 ---
 
 For questions or issues, please check the troubleshooting section above or review the code comments in the HTML and JavaScript files.
+
 
 
